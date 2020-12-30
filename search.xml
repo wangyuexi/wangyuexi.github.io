@@ -4,11 +4,68 @@
   
     
     <entry>
+      <title>test-1</title>
+      <link href="2020/12/30/test-1/"/>
+      <url>2020/12/30/test-1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>my-test-content</title>
+      <link href="2020/12/30/my-test-content/"/>
+      <url>2020/12/30/my-test-content/</url>
+      
+        <content type="html"><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><h2 id="测试文章的排序"><a href="#测试文章的排序" class="headerlink" title="测试文章的排序"></a>测试文章的排序</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 内容 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的第一篇博客</title>
       <link href="2020/12/28/my-first-blog/"/>
       <url>2020/12/28/my-first-blog/</url>
       
         <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><h2 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h2><h4 id="hexo博客的搭建"><a href="#hexo博客的搭建" class="headerlink" title="hexo博客的搭建"></a>hexo博客的搭建</h4><blockquote><p>简单的介绍</p><p>从安装开始</p></blockquote><ul><li>第一步：下载</li><li>第二步：安装</li><li>第三步：配置</li><li>第四步：美化</li><li>第五步：上传</li><li>第六步：over</li></ul><h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>今天又是充满希望的一天</p><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><p>明天也是充满希望的一天</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 我的第一次test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 内容 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的数学测试</title>
+      <link href="2020/12/28/math-test/"/>
+      <url>2020/12/28/math-test/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><h4 id="数学内容"><a href="#数学内容" class="headerlink" title="数学内容"></a>数学内容</h4><pre class="line-numbers language-latex" data-language="latex"><code class="language-latex">&lt;div>  <span class="token equation string">\[ E = mc^2 \]</span>&lt;/div><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><pre class="line-numbers language-katex" data-language="katex"><code class="language-katex">$$ E &#x3D; mc^2 $$<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>$$ E = mc^2 $$</p><pre class="line-numbers language-none"><code class="language-none">&lt;font size&#x3D;5 color&#x3D;red&gt;$$ &#123;\Rightarrow \boxed&#123;w_&#123;t+1&#125;&#x3D;w_t-lr*&#123;\frac &#123;\partial loss&#125;&#123;\partial w_t&#125;&#125;&#125;&#125; $$&lt;&#x2F;font&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><font size=5 color=red><p>$$ {\Rightarrow \boxed{w_{t+1}=w_t-lr*{\frac {\partial loss}{\partial w_t}}}} $$</p></font>]]></content>
       
       
       <categories>

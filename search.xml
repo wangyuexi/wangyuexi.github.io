@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>搭建HEXO博客</title>
+      <link href="2021/01/20/create-hexo/"/>
+      <url>2021/01/20/create-hexo/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p><font size=6>什么是Hexo？</font></p><p>Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用  Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。关键是免费哦！</p><blockquote><p>白嫖什么的最香啦，让我们抓紧坐好，博客的航班即将起飞~</p></blockquote><h1 id="安装git和node-js"><a href="#安装git和node-js" class="headerlink" title="安装git和node.js"></a>安装git和node.js</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 创建hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的数学测试</title>
       <link href="2021/01/01/math-test/"/>
       <url>2021/01/01/math-test/</url>
       
-        <content type="html"><![CDATA[<h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><h4 id="数学内容"><a href="#数学内容" class="headerlink" title="数学内容"></a>数学内容</h4><pre class="line-numbers language-latex" data-language="latex"><code class="language-latex">&lt;div>  <span class="token equation string">\[ E = mc^2 \]</span>&lt;/div><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><pre class="line-numbers language-katex" data-language="katex"><code class="language-katex">$$ E &#x3D; mc^2 $$<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>$$ E = mc^2 $$</p><pre class="line-numbers language-none"><code class="language-none">&lt;font size&#x3D;5 color&#x3D;red&gt;$$ &#123;\Rightarrow \boxed&#123;w_&#123;t+1&#125;&#x3D;w_t-lr*&#123;\frac &#123;\partial loss&#125;&#123;\partial w_t&#125;&#125;&#125;&#125; $$&lt;&#x2F;font&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><font size=5 color=red><p>$$ {\Rightarrow \boxed{w_{t+1}=w_t-lr*{\frac {\partial loss}{\partial w_t}}}} $$</p></font>]]></content>
+        <content type="html"><![CDATA[<h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><h3 id="数学内容one"><a href="#数学内容one" class="headerlink" title="数学内容one"></a>数学内容one</h3><pre class="line-numbers language-latex" data-language="latex"><code class="language-latex">&lt;div>  <span class="token equation string">\[ E = mc^2 \]</span>&lt;/div><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><pre class="line-numbers language-katex" data-language="katex"><code class="language-katex">$$ E &#x3D; mc^2 $$<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>$$ E = mc^2 $$</p><h3 id="数学内容2"><a href="#数学内容2" class="headerlink" title="数学内容2"></a>数学内容2</h3><pre class="line-numbers language-none"><code class="language-none">&lt;font size&#x3D;5 color&#x3D;red&gt;$$ &#123;\Rightarrow \boxed&#123;w_&#123;t+1&#125;&#x3D;w_t-lr*&#123;\frac &#123;\partial loss&#125;&#123;\partial w_t&#125;&#125;&#125;&#125; $$&lt;&#x2F;font&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><font size=5 color=red><p>$$ {\Rightarrow \boxed{w_{t+1}=w_t-lr*{\frac {\partial loss}{\partial w_t}}}} $$</p></font><h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><h2 id="测试一"><a href="#测试一" class="headerlink" title="测试一"></a>测试一</h2><h3 id="one"><a href="#one" class="headerlink" title="one"></a>one</h3><h3 id="two"><a href="#two" class="headerlink" title="two"></a>two</h3><h2 id="测试二"><a href="#测试二" class="headerlink" title="测试二"></a>测试二</h2>]]></content>
       
       
       <categories>
